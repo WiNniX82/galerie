@@ -1,4 +1,2 @@
 # galerie
-Création d'une galerie
-# galerie
-# galerie
+## Création d'une galerie
